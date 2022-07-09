@@ -1,5 +1,5 @@
 {
-  "name": "hxz-api",
+  "name": "xavior-api",
   "version": "1.0.0",
   "description": "hexa-api",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hexagonz/Hexa-api.git"
+    "url": "git+https://github.com/Xavior13/Hexa-api.git"
   },
   "keywords": [
     "YNTKTS"
@@ -16,9 +16,9 @@
   "author": "Hexagon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz/Hexa-Api/issues"
+    "url": "https://github.com/Xavior13/Hexa-Api/issues"
   },
-  "homepage": "https://github.com/Hexagonz/Hexa-Api#readme",
+  "homepage": "https://github.com/Xavior13/Hexa-Api#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
